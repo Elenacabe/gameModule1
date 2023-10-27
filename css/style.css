@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.Enter {
+    background-image: url(../img/cityskyline.png);
+    background-size: cover;
+    text-align: center;
+    padding-top: 250px;
+    padding-bottom: 600px;
+    font-size: 3em;
+    font-family: fantasy;
+}
+
+img {
+    width: 15%;
+
+
+}
+
+#game-screen {
+    display: none;
+}
